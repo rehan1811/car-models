@@ -1,0 +1,6799 @@
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]>
+<!--><html class="no-js" lang="en" prefix="og: http://ogp.me/ns#"><!--<![endif]-->
+<head>
+
+	<!-- Basic Page Needs
+  ================================================== -->
+	<meta charset="utf-8">
+	<meta name="language"        content="english" />
+	<meta name="distribution"    content="global" />
+	<meta name="author"          content="FetchCFD" />
+	<meta name="publisher"       content="FetchCFD" />
+	<meta name="copyright"       content="2024 FetchCFD" />
+	<meta name="p:domain_verify" content="ea086f59d94365709cc8436c7c5d19d5"/>
+	<meta name="google-site-verification" content="DZAIIGGhFYCHQdKO86vS1vt6ZtL1nzVjMvgJmGF5EJw" />
+	<meta name="naver-site-verification" content="8099831083385e3375823b8f484d6a2f27a6f312" />
+
+	<meta name="theme-color" content="#16a085">
+	
+    <title id="titleid">
+        
+
+        
+            Chevrolet (Chevy) 1952
+            
+        
+    </title>
+
+
+	
+	
+		<meta name="description" content="Blender/model files included for download. Reference: Ding-Yun Chen, Xiao-Pei Tian, Yu-Te Shen and Ming Ouhyoung, &quot;On Visual Similarity Based 3D Model Retrieval&quot;, Computer Graphics Forum (EUROGRAPHICS&#39;03), Vol. 22, No. 3, pp. 223-232, Sept. 2003.">
+	
+
+	
+	
+	<meta name="keywords" content= "Chevrolet (Chevy) 1952, , 3D Model, 3D Printed, CAD, 3D print, 3D Modeling, 3D Render, b3d, Blender3d, FetchCFD" >
+	<meta name="revisit-after" content="2 days" />
+	<meta name="robots" content="index, follow" />
+	<meta name="contact" 			  content="contact@fetchcfd.com"/>
+	<meta property="fb:app_id" content="138966473632425">
+	
+	
+<meta property="og:url"           content="https://fetchcfd.com/view-project/603-chevrolet-(chevy)-1952" />
+<meta property="og:type"          content="article" />
+<meta property="og:title"         content="Chevrolet (Chevy) 1952" />
+<meta property="twitter:title" 	  content="Chevrolet (Chevy) 1952" />
+<meta property="tumblr:title"     content="Chevrolet (Chevy) 1952" />
+<meta property="og:site_name"     content="FetchCFD" />
+<meta property="twitter:site" 	  content="@FetchCFD" />
+<meta property="twitter:domain"   content="https://fetchcfd.com/" />
+<meta property="twitter:card"     content="summary_large_image" />
+<meta property="twitter:description" content="Blender/model files included for download. Reference: Ding-Yun Chen, Xiao-Pei Tian, Yu-Te Shen and Ming Ouhyoung, &quot;On Visual Similarity Based 3D Model Retrieval&quot;, Computer Graphics Forum (EUROGRAPHICS&#39;03), Vol. 22, No. 3, pp. 223-232, Sept. 2003." />
+<meta property="twitter:image"       content="https://s3-eu-west-1.amazonaws.com/fetchcfd/original/descriptionImage-1487791467712.png" />
+<meta property="tumblr:image"        content="https://s3-eu-west-1.amazonaws.com/fetchcfd/original/descriptionImage-1487791467712.png" />
+
+<meta property="og:description"   content="Blender/model files included for download. Reference: Ding-Yun Chen, Xiao-Pei Tian, Yu-Te Shen and Ming Ouhyoung, &quot;On Visual Similarity Based 3D Model Retrieval&quot;, Computer Graphics Forum (EUROGRAPHICS&#39;03), Vol. 22, No. 3, pp. 223-232, Sept. 2003." />
+<meta property="og:image" 		  content="https://s3-eu-west-1.amazonaws.com/fetchcfd/original/descriptionImage-1487791467712.png" />
+<meta property="og:image:alt" content="Chevrolet (Chevy) 1952" />
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<link rel="canonical" href="https://fetchcfd.com/view-project/603-chevrolet-(chevy)-1952">
+<!-- Schema Markup -->
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "CreativeWork",
+  "url": "https://fetchcfd.com/view-project/603-chevrolet-(chevy)-1952",
+  "name": "Chevrolet (Chevy) 1952",
+  "description": "Blender/model files included for download. Reference: Ding-Yun Chen, Xiao-Pei Tian, Yu-Te Shen and Ming Ouhyoung, &quot;On Visual Similarity Based 3D Model Retrieval&quot;, Computer Graphics Forum (EUROGRAPHICS&#39;03), Vol. 22, No. 3, pp. 223-232, Sept. 2003.",
+  "image": "https://s3-eu-west-1.amazonaws.com/fetchcfd/original/descriptionImage-1487791467712.png",
+  "author": {
+    "@type": "Person",
+    "name": "Max Payne"
+  },
+  "keywords": "automotive computer aided design cad computer aided engineering cae automobiles, classic cars chevrolet chevy cad animations animation  max payne max",
+  "datePublished": "2017-02-22",
+  "dateModified": "2025-06-30",
+  "publisher": {
+    "@type": "Organization",
+    "name": "FetchCFD"
+  }
+}
+</script>
+
+
+	<!-- Mobile Specific Metas
+  ================================================== -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+		
+<script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.9.0/moment.min.js" type="text/javascript" defer></script>
+<script src="/user/js/moment-timezone.min.js" type="text/javascript" defer></script>
+<script type="text/javascript">
+function myfunction(){ 
+		if(window.innerWidth <= 800 && window.innerHeight <= 600) {    
+			document.getElementById("pc").style.display = "none";
+			console.log('b');
+		}	
+    }     
+</script>
+
+	<!-- CSS
+  ================================================== -->
+	<link rel="stylesheet" href="/user/css/base.css"/>
+	<link rel="stylesheet" href="/user/css/skeleton.css"/>
+	<link rel="stylesheet" href="/user/css/layout.min.css"/>
+		
+	<link rel="stylesheet" href="/user/css/font-awesome.css" />
+	<link rel="stylesheet" href="/user/css/ionicons.min.css"/>
+	<link rel="stylesheet" href="/user/css/retina.css"/>
+	<link rel="stylesheet" href="/user/css/owl.carousel.css"/>
+	<link rel="stylesheet" href="/user/css/owl.transitions.css"/>
+	<link rel="stylesheet" href="/user/css/tabs.css"/>
+	<link rel="stylesheet" type="text/css" href="/user/css/select2/select2.min.css" />
+	<link rel="preload" href="/user/css/custom.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+
+	<link rel="stylesheet" type="text/css" href="/user/css/daterangepicker-bs3.min.css" />
+	
+	<link rel="stylesheet" type="text/css" href="/user/css/jquery.bxslider.css" />
+	<link rel="stylesheet" type="text/css" href="/user/css/Cookie.css" />
+		
+	<link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.7.2/css/all.css"
+      integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr"
+      crossorigin="anonymous"
+    />
+	<link rel="preload" href="/user/css/style-pdfviewer.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="/user/css/style-pdfviewer.css"></noscript>
+
+	
+<link rel="preload" href="https://fonts.googleapis.com/css?family=Raleway&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+	
+	<!-- <Favi></Favi>cons
+	================================================== -->
+	<link rel="shortcut icon" href="/favicon.png">
+	<link rel="apple-touch-icon" href="apple-touch-icon.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="apple-touch-icon-114x114.png">
+	
+	<script type="text/javascript" src="/user/js/modernizr.min.js"></script> 	
+	<style type="text/css">
+	.top-menu{
+		color:#16a085; 
+		font-weight:bold; 
+		font-size:13px
+	}
+	.top-menu:hover{
+		color:#000; 
+		<!-- border-bottom: 2px solid currentColor; -->
+		
+	}
+	.top-menu-icon{
+		color:#FA8072; 
+		font-weight:bold; 
+		font-size:13px
+		position: fixed;
+	background-color:transparent;
+	background-image:url('/user/images/notification-green.png'); 
+	background-repeat:no-repeat;
+	background-position:left left;
+	background-size:17px 17px;
+	cursor: pointer;
+	bottom: 90px;
+	right: 30px;
+	width:75px;
+	height: 50px;
+	
+	}
+	
+	.top-menu-icon:hover {
+	background-image:url('/user/images/notification-black.png');
+	background-repeat:no-repeat;
+	background-position:left left;
+	background-size:17px 17px;
+background-color:transparent;	
+color:#FA8072;
+
+}
+	
+	</style>
+<!-- gac 
+	================================================== -->	
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-84290393-1', 'auto');
+  ga('set', 'anonymizeIP', true);
+  ga('send', 'pageview');
+
+</script>
+<!-- gac
+	================================================== -->
+	
+	
+</head>
+<body>	
+<div id="cookieConsent">
+   
+    By browsing our site, closing this message, or clicking “Accept All Cookies”, you agree to store Cookies by us and third-party partners. <a href="https://www.fetchcfd.com/privacy-policy#cookies" target="_blank">Read more details</a>. 
+	 <a class="cookieConsentOK" onclick="this.parentElement.style.display='none'">Accept All Cookies</a>  
+	
+	 <a class="cookieConsentOK" href="/ManageSettings">Manage Settings</a> 
+</div>
+
+<div class="container">
+
+</div> 
+
+
+	<!-- Navigation And Logo
+	================================================== -->
+	
+		<header class="cd-header">
+		
+			<div class="container">		
+				<div class="one columns">	
+					<div class="logo-wrap">
+						<a href="/"><img src="/user/images/logo.png" alt="FetchCFD Logo - Engineering Simulations, CFD, FEA, and 3D models also in AR, and VR." loading="lazy"></a>
+					</div>
+				</div>
+				<div class="containerLeft">
+				<div class="six columns">
+					&nbsp;&nbsp;&nbsp;&nbsp;
+					<a href="/search-projects/type/cad" > <span class="top-menu  " title="Find CAD and 3D Models" style="font-family:Open Sans,sans-serif;font-size:11px;"  data-lang="en">CAD</span></a>
+					&nbsp;
+					<a href="/search-projects/type/mesh" ><span class="top-menu  " title="Explore Mesh For Computational Fluid Dynamics and Finite Element Analysis " style="font-family:Open Sans,sans-serif; font-size: 11px;" data-lang="en">MESH<span></a>
+					&nbsp;
+					<a href="/search-projects/type/cfd" > <span class="top-menu  " title="Search CFD Simulations" style="font-family:Open Sans,sans-serif;font-size:11px;" data-lang="en">CFD</span></a>
+					&nbsp;
+					<a href="/search-projects/type/fea" > <span class="top-menu  " title="Browse Finite Element Analysis Simulations" style="font-family:Open Sans,sans-serif;font-size:11px;" data-lang="en">FEA</span></a>
+					&nbsp;
+					<!-- <a href="/search-projects/type/animations"> <span class="top-menu  "  data-lang="en">Animations</span></a> -->
+					<a href="/search-projects/type/augmented-reality"  title="Computational Fluid Dynamics, FEA Simulations and 3D Models in Augmented Reality"> <span class="top-menu  " style="font-family:Open Sans,sans-serif;font-size:11px;" data-lang="en">AR</span></a>
+					&nbsp;
+					<a href="/search-projects/type/virtual-reality"  title="Computational Fluid Dynamics, 3D Models and FEA Simulations In Virtual Reality"> <span class="top-menu  " style="font-family:Open Sans,sans-serif;font-size:11px;" data-lang="en">VR</span></a>
+					&nbsp;
+					<a href="/search-projects/type/codesScripts"  title="Codes for Fluid Simulation and Finite Element Analysis"> <span class="top-menu  " style="font-family:Open Sans,sans-serif;font-size:11px;" data-lang="en">CODES</span></a>
+				</div>
+				</div>
+				<div class="containerRight">
+				<div class="five columns" >
+					<a href="/upload-project" title="Upload and share your Fluid Simulations, 3D Models and Finite Element Analysis on FetchCFD"> <span class="top-menu  " style="font-family:Open Sans,sans-serif;font-size:11px;" data-lang="en">UPLOAD</span></a>
+					
+						
+					
+					&nbsp;
+					<a href="/login" title="Login to FetchCFD to download, publish and share CFD Simulations, Finite Element Analysis and 3D Models"> <span class="top-menu  " style="font-family:Open Sans,sans-serif;font-size:11px;" data-lang="en">LOGIN</span></a>
+					&nbsp;
+					<a href="/register" > <span class="top-menu  " style="font-family:Open Sans,sans-serif;font-size:11px;" title="Sign up for FetchCFD to publish and download CFD simulations, Finite Element Analysis (FEA) models, and explore 3D models in AR and VR for free" data-lang="en">SIGN UP</span></a>
+						
+					&nbsp;
+					<form action="/search-projects" method="get" style="float:right;margin-right:70px">
+						<div class="post-sidebar" title="Search FetchCFD for Computational Fluid Dynamics, Finite Element Analysis, and 3D Models">
+							<input type="text" placeholder="Search FetchCFD" name="searchQuery" value="" aria-label="Search FetchCFD for CFD, FEA, 3D models, CAD, AR, VR projects"/>
+						</div>
+					</form>
+				</div>
+				</div>
+				<!-- tablet search bar
+	================================================== -->
+				<div class="searchTab">
+				<div class="eleven columns">
+				<form action="/search-projects" method="post" style="float:right;margin-right:10%">
+						<div class="post-sidebar" title="Search FetchCFD for Fluid Simulations, FEA, and 3D Models">
+							<input type="text" placeholder="Search FetchCFD" name="searchQuery" aria-label="Search FetchCFD for 3D Models, FEA, Fluid Simulations, CAD, AR, VR projects"/>
+						</div>
+					</form>
+					</div>
+					</div>
+					<!-- tablet search bar ends
+	================================================== -->
+				<a class="cd-primary-nav-trigger" href="#0" title="Explore more options in FetchCFD for CFD, FEA, 3D Models, AR, and VR projects">
+					<span class="cd-menu-text"></span><span class="cd-menu-icon"></span>
+				</a>
+			
+			</div>		
+				
+		</header>	
+
+		<nav>
+			<div class="cd-primary-nav">
+				<ul class="cd-scndr-nav">
+					
+					
+					
+						<li class="cd-label"><a href="/login" title="Login to FetchCFD for publishing, downloading, and collaborating on Fluid simulations, finite element analyses, and 3D model designs>Login</a></li>
+						<li class="cd-label"><a href="/register" title="Join FetchCFD for Free and download and publish 3D models, CFD, and FEA simulations">Sign Up</a></li>
+						<li class="cd-label"><a href="/search-projects/type/animations" title="Renderings and animations of 3D models, CFD Simulations and Finite Element Analysis">Animations</a></li>
+						<li class="cd-label"><a href="/3d-viewer" title="3D Viewer to View and Interact with 3D Models">3D Viewer</a></li>
+						<li class="cd-label"><a href="#" title="Browse FetchCFD Knowledge Base for Fluid Simulation, FEA, and 3D Modeling">Knowledge Base</a>
+							<ul>
+							<li><a href="/fetchbot" style="font-size: 16px;" title="Ask FetchBot for Assistance related to Fluid Simulations and Finite Element Method">FetchBot</a></li>
+							<li><a href="https://simulationwiki.fetchcfd.com/" style="font-size: 16px;" title="Access the Simulation Wiki for Computational Fluid Dynamics and FEA Simulations">Simulation Wiki</a></li>
+							</ul>
+						</li>
+						
+				</ul>	
+				
+				<div class="social-nav">
+				<ul class="list-social-nav">
+                <li class="icon-soc-nav tipped" data-title="Twitter" data-tipper-options='{"direction":"top","follow":"true"}'>
+                    <a href="https://twitter.com/FetchCFD" target="_blank" title="Follow FetchCFD on Twitter">&#xf099;</a>
+                </li>
+                <li class="icon-soc-nav tipped" data-title="Medium" data-tipper-options='{"direction":"top","follow":"true"}'>
+                    <a href="https://medium.com/@FetchCFD" target="_blank" title="Read FetchCFD Articles on Medium">&#xf16a;</a>
+                </li>
+                <li class="icon-soc-nav tipped" data-title="YouTube" data-tipper-options='{"direction":"top","follow":"true"}'>
+                    <a href="https://www.youtube.com/channel/UCLoKxLVcIAVsyKIqSkePhNQ" target="_blank" title="Subscribe to FetchCFD on YouTube">&#xf16a;</a>
+                </li>
+                <li class="icon-soc-nav tipped" data-title="Tumblr" data-tipper-options='{"direction":"top","follow":"true"}'>
+                    <a href="http://fetchcfd.tumblr.com/" target="_blank" title="Follow FetchCFD on Tumblr">&#xf174;</a>
+                </li>
+                <li class="icon-soc-nav tipped" data-title="Facebook" data-tipper-options='{"direction":"top","follow":"true"}'>
+                    <a href="https://www.facebook.com/FetchCFD-1721895254717592/" target="_blank" title="Like FetchCFD on Facebook">&#xf230;</a>
+                </li>
+                <li class="icon-soc-nav tipped" data-title="Pinterest" data-tipper-options='{"direction":"top","follow":"true"}'>
+                    <a href="https://pinterest.com/fetchcfd/" target="_blank" title="Follow FetchCFD on Pinterest">&#xf231;</a>
+                </li>
+                <li class="icon-soc-nav tipped" data-title="LinkedIn" data-tipper-options='{"direction":"top","follow":"true"}'>
+                    <a href="https://www.linkedin.com/groups/8517932" target="_blank" title="Connect with FetchCFD on LinkedIn">&#xf08c;</a>
+                </li>
+                <li class="icon-soc-nav tipped" data-title="Instagram" data-tipper-options='{"direction":"top","follow":"true"}'>
+                    <a href="https://www.instagram.com/fetchcfdworld/" target="_blank" title="Follow FetchCFD on Instagram">&#xf16d;</a>
+                </li>
+				</ul>
+				</div>
+								
+			</div>
+			<!-- Smart devices burger menu
+	================================================== -->
+			<div class="burgerMobile">
+			<div class="cd-primary-nav">
+				<ul class="cd-scndr-nav">
+					<li class="cd-label"><a href="/search-projects/type/cad" title="Browse CAD and 3D Models">CAD</a></li>
+					<li class="cd-label"><a href="/search-projects/type/mesh" title="Explore Mesh Projects for CFD & FEA">Mesh</a></li>
+					<li class="cd-label"><a href="/search-projects/type/cfd" title="Search CFD Simulations">CFD</a></li>
+					<li class="cd-label"><a href="/search-projects/type/fea" title="Find Finite Element Analysis (FEA)">FEA</a></li>
+					<li class="cd-label"><a href="/search-projects/type/augmented-reality" title="Browse 3D Models, CFD and FEA Simulations in AR">AR</a></li>
+					<li class="cd-label"><a href="/search-projects/type/virtual-reality" title="View CFD and FEA Simulations and 3D Models in VR">VR</a></li>
+					<li class="cd-label"><a href="/search-projects/type/codesScripts" title="Browse Codes related to Computational Fluid Dynamics Analysis and Finite Element Analysis Simulations">Codes</a></li>
+					
+					
+						<li class="cd-label"><a href="/login" title="Sign in to FetchCFD for downloading, publishing, and sharing CFD simulations, finite element analyses, and 3D model designs">Login</a></li>
+						<li class="cd-label"><a href="/register" title="Create a free account on FetchCFD to download, publish, and collaborate on CFD simulations, Finite Element Analysis, and 3D models and experience your simulations and 3D models in AR and VR">Sign Up</a></li>
+						<li class="cd-label"><a href="/search-projects/type/animations" title="Explore Renderings of 3D models, Fluid Simulations and Finite Element Analysis">Animations</a></li>
+						
+				</ul>	
+				
+				
+			</div>		
+			</div>
+			<!-- Smart devices burger menu ends
+	================================================== -->
+		</nav>
+
+	
+	<!-- Primary Page Layout
+	================================================== -->
+
+	<main class="cd-main">
+	
+
+
+<title>Chevrolet (Chevy) 1952</title>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+<link rel="stylesheet" type="text/css" href="/user/css/bootstrap.css" />
+
+
+<div id="sendMessageDialog" title="Send a message to Max about Chevrolet (Chevy) 1952" style="width:200px">
+		<textarea id="message" rows="4" cols="50" placeholder="Type your message here. Be concise and provide as much information as possible. Also mention the project URL if applicable e.g. Project url is https://fetchcfd.com/view-project/603-chevrolet-(chevy)-1952 ..."></textarea>
+</div>
+
+<!-- Embed Code Dialog -->
+<div id="embedDialog" title="Embed Chevrolet (Chevy) 1952 on Your Website" style="width: 300px;" role="dialog" aria-labelledby="embedDialogTitle">
+    <h2 id="embedDialogTitle">Embed Code for Chevrolet (Chevy) 1952</h2>
+    <p>Copy the embed code below to include this project on your website:</p>
+    <label for="embedCode" class="visually-hidden">Embed Code for Chevrolet (Chevy) 1952</label>
+    <textarea 
+        id="embedCode" 
+        rows="4" 
+        cols="50" 
+        readonly 
+        onclick="this.focus(); this.select();" 
+        aria-label="Embed code for Chevrolet (Chevy) 1952"
+    >&lt;iframe src="https://fetchcfd.com/embed-project/603-chevrolet-(chevy)-1952" width="100%" height="400" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+    </textarea>
+</div>
+
+
+	<div class="section padding-top-bottom grey-background">					
+			<div class="container">
+				<div class="twelve columns">
+					
+				</div>
+					<div class="pricing-item popular white-background">
+					
+						
+						
+						
+						
+						
+						
+						<a href="https://fetchcfd.com/embed-project/603-chevrolet-(chevy)-1952" target="_blank" style="color: #ffffff; text-decoration: none; font-family: 'Open Sans', sans-serif;" title="Explore Chevrolet (Chevy) 1952 in Reader's Mode">
+    <span style="display: inline-block;background-color: #000000;border: 2px solid #ffffff;border-radius: 44px;padding: 16px;padding-top: 7px;padding-bottom: 7px;">
+        <i class="fas fa-book-reader" style="color: #ffffff; font-size: 12px;"></i>
+        <span style="margin-left: 5px;font-size: 12px;letter-spacing:0px;font-weight: bold;">Reading Mode</span>
+    </span>
+</a>
+
+
+
+							<div class="container">
+								<div class="seven columns">
+									<div class="container seven columns">
+										
+											<button aria-label="Send a message to the author of Chevrolet (chevy) 1952" id="sendMessage" class="two columns custome_green_button"><i class="fas fa-envelope"></i> Message</button>
+											<div id="likeSection">
+												
+												
+													
+												
+												
+													<button aria-label="Like this 3D Model" id="like" class="two columns custome_green_button" onclick="likeDesign(event, 603)"><i class="fas fa-heart"></i> Like</button>
+												
+											</div>
+
+											<div id="followSection">
+												
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+													
+												
+												
+													<button aria-label="Follow the author of Chevrolet (Chevy) 1952" id="follow" class="two columns custome_green_button" onclick="followUser(event, 20)"><i class="fas fa-user-plus"></i> Follow</button>
+												
+											</div>
+											
+										
+										<div class="alert alert-red" id="messageError" style="display:none">
+											<p style="font-family:Open Sans,sans-serif; color:#555555; font-size:13px;text-transform: none;"><span></span><strong>OOPS!</strong> You must be logged in to perform this action. Login <a style="color:#16a085;" href="https://fetchcfd.com/login" title="Log in to interact with Chevrolet (Chevy) 1952 3D Model project">here.</a> 
+											Not yet a FetchCFD user? Sign up for free <a style="color:#16a085;" href="https://fetchcfd.com/register" title="Join FetchCFD for free and start interacting with the Chevrolet (Chevy) 1952">here.</a>
+											</p>
+										</div>
+									</div>
+									<h1 style="letter-spacing: 0px;"><span style="display: inline-block;">Chevrolet (chevy) 1952 </span>
+									
+									<span style="font-weight: 400;display: block;font-size: 0.85em;margin-left: -12px;margin-top:0;color: #999">  3D Model  </span>
+									
+									</h1>
+									<div class="six columns">
+  
+
+  
+  
+    
+  
+    
+  
+  
+  
+</div>
+
+									<div style="clear: both;"></div>
+									<div class="slider" aria-label="Project Image Gallery Slider">
+    <ul class="bxslider" style="width: 800px; height: 400px;">
+        
+            
+        
+            
+                <li>
+                    
+                        <!-- Default handling for other image types -->
+                        <img 
+                            loading="lazy" 
+                            src="https://s3-eu-west-1.amazonaws.com/fetchcfd/resized/file-1487791718242.jpg" 
+                            alt="Chevy-1952-2.jpg - High-quality image for the Chevrolet (Chevy) 1952 project" 
+                            style="margin: auto;" 
+                            title="View Chevy-1952-2.jpg - Image of the Chevrolet (Chevy) 1952 3D Model project"
+                        />
+                    
+                </li>
+            
+        
+        
+            <li>
+                <img 
+                    loading="lazy" 
+                    src="https://s3-eu-west-1.amazonaws.com/fetchcfd/resized/descriptionImage-1487791467712.png" 
+                    alt="Main image for Chevrolet (Chevy) 1952 project" 
+                    style="margin: auto;" 
+                    title="Explore Chevrolet (Chevy) 1952 3D Model - Main image"
+                />
+            </li>
+        
+    </ul>
+</div>
+									<div>
+									<p>
+									
+									</p>
+									<!-- NoAI Policy Section -->
+									<p style="font-family:Open Sans,sans-serif; font-size:12px;margin-bottom: 2em;font-style: italic;" aria-label="Policy restricting AI usage of this content">
+											<b>NoAI: This project, including models, simulations, images, and descriptions, may not be used within datasets, during the developmental process, or as inputs for generative AI tools.</b>
+										</p>
+										<!-- Main content Google should focus on -->
+									<section>
+											<h2 
+												class="visually-hidden" 
+												aria-label="Detailed description of the Chevrolet (Chevy) 1952 project"
+											>
+												About the Chevrolet (Chevy) 1952 Project
+											</h2>
+										<p style="font-family:Open Sans,sans-serif; color:#555555; font-size:14px;" aria-label="Description of the project, Chevrolet (Chevy) 1952">
+											Blender/model files included for download. Reference: Ding-Yun Chen, Xiao-Pei Tian, Yu-Te Shen and Ming Ouhyoung, &quot;On Visual Similarity Based 3D Model Retrieval&quot;, Computer Graphics Forum (EUROGRAPHICS&#39;03), Vol. 22, No. 3, pp. 223-232, Sept. 2003.
+										</p>
+										
+									</section>
+									</div>
+									
+								
+								</div>
+								<div class="four columns">
+										<!-- <button id="download" title="Download Project Files"> Download </button>
+										<br> -->
+										<!-- New popup window for download files -->
+										
+										<div class="col-md-7 ">
+										<a href="#" id="download" class="tipped" data-title="Log in or register to download Chevrolet (Chevy) 1952 project files for free" data-tipper-options='{"direction":"top","follow":"false"}' data-toggle="modal" aria-label="Log in or register to download Chevrolet (Chevy) 1952 project files"><div class="link-download-new"data-lang="en">DOWNLOAD</div></a>
+										</div>
+										
+										<!-- New popup window for download files ends here-->
+										<div class="alert alert-red" id="downloadError" style="display:none;">
+											<p style="font-family:Open Sans,sans-serif; color:#555555; font-size:13px;text-transform: none;"><span></span><strong>OOPS!</strong> You must be logged in to download this project. Login <a style="color:#16a085;" href="https://fetchcfd.com/login" title="Login to FetchCFD to access Chevrolet (Chevy) 1952 project files">here.</a> Not yet a FetchCFD user? Sign up for free <a style="color:#16a085;" href="https://fetchcfd.com/register" title="Register for free to access Chevrolet (Chevy) 1952 and other 3D Models">here.</a></p>
+										</div>
+										<!-- <br> -->
+										
+										
+
+  
+  
+
+  
+  
+  
+											
+  
+
+  
+  
+
+  
+  
+  
+											
+  
+
+
+										
+										<br>
+									<div class="pricing-item popular white-background">
+										<h5>Statistics</h5>
+										<p style="font-family:Open Sans,sans-serif; color:#555555; font-size:13px;"><span><i class="fas fa-download" style="color:#555555"></i> 10</span> Downloads</p>
+										<p style="font-family:Open Sans,sans-serif; color:#555555; font-size:13px;"><span><i class="fas fa-heart" style="color:#555555"></i> 1</span> Likes</p>
+										<p style="font-family:Open Sans,sans-serif; color:#555555; font-size:13px;"><span><i class="fas fa-eye" style="color:#555555"></i> 5744</span> Views</p>
+										<p style="font-family:Open Sans,sans-serif; color:#555555; font-size:13px;"><span><i class="fas fa-comment" style="color:#555555"></i> 0</span> Comments</p>
+										<p style="font-family:Open Sans,sans-serif; color:#555555; font-size:13px;"><span><i class="fas fa-briefcase" style="color:#555555"></i> 2</span> Files</p>
+										
+										
+											
+										
+											
+										
+										<p style="font-family:Open Sans,sans-serif; color:#555555; font-size:13px;"><span><i class="fas fa-file" style="color:#555555"></i> 0 MB</span> Project Size</p>
+										
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+
+										
+										<p style="font-family:Open Sans,sans-serif; color:#555555; font-size:13px;"><span><i class="fas fa-calendar-alt" style="color:#555555"></i> February 22nd, 2017</span> Uploaded</p>
+										<!-- <p style="font-family:Geneva, sans-serif; color:#555555; font-size:13px;"><span>June 30th, 2025</span> Last Modified</p> -->
+										<br>
+										<h5>Share</h5>
+										<a href="https://www.facebook.com/sharer/sharer.php?u=https://fetchcfd.com/view-project/603&amp;src=sdkpreparse" id="fb-share" rel="nofollow" target="_new" class="fa_share tipped" style="font-family:Open Sans,sans-serif;" data-title="Share Chevrolet (Chevy) 1952 on Facebook"  data-tipper-options='{"direction":"top","follow":"true"}' ><i class="fab fa-facebook-square" style="color:#3B5998;"></i> Share</a>
+										<a href="https://twitter.com/intent/tweet?text=Check%20out%20Chevrolet (Chevy) 1952%20by%20Max%20Payne%20https://fetchcfd.com/view-project/603%20via%20@FetchCFD%20%23FetchCFD%20%23CAD%20%233DModel%20"  id="tweet" rel="nofollow" target="_blank" class="fa_share tipped" style="font-family:Open Sans,sans-serif;" data-title="Share Chevrolet (Chevy) 1952 on Twitter"  data-tipper-options='{"direction":"top","follow":"true"}'> <i class="fab fa-twitter" style="color:#55ACEE;"></i> Tweet</a>
+										<a href="//www.pinterest.com/pin/create/button/" data-pin-do="buttonPin" data-pin-custom="true" id="pinterest" rel="nofollow" target="_blank" class="fa_share tipped" style="font-family:Open Sans,sans-serif;" data-title="Share Chevrolet (Chevy) 1952 on Pinterest"  data-tipper-options='{"direction":"top","follow":"true"}'> <i class="fab fa-pinterest" style="color:#cb2027;"></i> Pin</a>
+										<a href="http://www.linkedin.com/shareArticle?mini=true&url=https://fetchcfd.com/view-project/603" id="linkedin" rel="nofollow" target="_blank" class="fa_share tipped" style="font-family:Open Sans,sans-serif;" data-title="Share Chevrolet (Chevy) 1952 on LinkedIn"  data-tipper-options='{"direction":"top","follow":"true"}'> <i class="fab fa-linkedin" style="color:#007bb5;"></i> Share</a>
+										<a href="https://www.xing.com/spi/shares/new?url=https://fetchcfd.com/view-project/603" id="xing" rel="nofollow" target="_blank" class="fa_share tipped" style="font-family:Open Sans,sans-serif;" data-title="Share Chevrolet (Chevy) 1952 on Xing"  data-tipper-options='{"direction":"top","follow":"true"}'> <i class="fab fa-xing-square" style="color:#126567;"></i> Share</a>
+										<a href="http://www.tumblr.com/share?v=3&u=https://fetchcfd.com/view-project/603&t=Chevrolet (Chevy) 1952" id="tumblr" rel="nofollow" target="_blank" class="fa_share tipped" style="font-family:Open Sans,sans-serif;" data-title="Share Chevrolet (Chevy) 1952 on Tumblr"  data-tipper-options='{"direction":"top","follow":"true"}'> <i class="fab fa-tumblr" style="color:#2c4762;"></i> Post</a>
+										<a href="http://www.reddit.com/submit?url=https://fetchcfd.com/view-project/603&title=Chevrolet (Chevy) 1952" id="Reddit" rel="nofollow" target="_blank" class="fa_share tipped" style="font-family:Open Sans,sans-serif;" data-title="Share Chevrolet (Chevy) 1952 on Reddit"  data-tipper-options='{"direction":"top","follow":"true"}'> <i class="fab fa-reddit" style="color:#ff5700;"></i> Share</a>
+										
+									
+										<p>
+											<a id="embed" class="hyperlink tipped" style="font-family:Open Sans,sans-serif;" data-title="Get Embed Code For <br>Chevrolet (Chevy) 1952 Project" data-tipper-options='{"direction":"top","follow":"true"}'><i class="fas fa-code"></i> Embed</a>
+										</p>
+									</div>
+									<br>
+
+
+  
+
+
+
+
+
+
+
+
+									
+									<div class="pricing-item popular white-background">
+										<!-- <h5>Popular</h5> -->
+										<h5><a href="/profile/max" style="letter-spacing: 1px;" class="hyperlink tipped" data-title="View Project Owner&#x27;s Profile" data-tipper-options='{"direction":"top","follow":"true"}'  title="Visit the profile of Max Payne to explore their projects and contributions">Max Payne</a></h5>
+										<li<p style="font-family:Open Sans,sans-serif; color:#555555; font-size:13px;">FC Score <strong>1628.58</strong> <li class="icon-soc-nav-info tipped" data-title="FC Score measures user rating based <br>on the their activity on FetchCFD, including <br>uploaded projects, publications, and<br> community feedback."  data-tipper-options='{"direction":"top","follow":"true"}'> &#xf059; </li></p></li>
+										<p style="font-family:Open Sans,sans-serif; color:#555555; font-size:13px;"><span>323</span> Projects</p>
+										<p style="font-family:Open Sans,sans-serif; color:#555555; font-size:13px;"><span>489</span> Likes</p>
+										<p style="font-family:Open Sans,sans-serif; color:#555555; font-size:13px;"><span>10030</span> Downloads</p>
+									</div>
+
+									<div class="pricing-item popular white-background">
+										<h5>Tags</h5>
+										<div class="link-tag" style="font-family:Open Sans,sans-serif;">
+										<p>
+											
+												<span>
+													<u><a class="hyperlink " data-title="View projects tagged with 'Automobiles,'" data-tipper-options='{"direction":"left","follow":"true"}' style="font-size:9px;letter-spacing:1px" href="/search-projects-by-tag/11-automobiles," title="Discover more projects tagged with Automobiles,">Automobiles,</a></u>
+												</span>
+											
+												<span>
+													<u><a class="hyperlink " data-title="View projects tagged with 'Classic cars'" data-tipper-options='{"direction":"left","follow":"true"}' style="font-size:9px;letter-spacing:1px" href="/search-projects-by-tag/250-classic-cars" title="Discover more projects tagged with Classic cars">Classic cars</a></u>
+												</span>
+											
+												<span>
+													<u><a class="hyperlink " data-title="View projects tagged with 'Chevrolet'" data-tipper-options='{"direction":"left","follow":"true"}' style="font-size:9px;letter-spacing:1px" href="/search-projects-by-tag/257-chevrolet" title="Discover more projects tagged with Chevrolet">Chevrolet</a></u>
+												</span>
+											
+												<span>
+													<u><a class="hyperlink " data-title="View projects tagged with 'Chevy'" data-tipper-options='{"direction":"left","follow":"true"}' style="font-size:9px;letter-spacing:1px" href="/search-projects-by-tag/258-chevy" title="Discover more projects tagged with Chevy">Chevy</a></u>
+												</span>
+											
+											
+												
+											
+												
+											
+										</p>
+										</div>
+										<h5>Categories</h5>
+										<div class="link-cat" style="font-family:Open Sans,sans-serif;">
+										<p> 
+											
+												<span>
+													<u><a class="hyperlink " data-title="View projects in 'Automotive' category" href="/search-projects-by-subcategory/2-automotive" title="Explore more projects under the Automotive category">Automotive</a></u>
+												</span>
+											
+												<span>
+													<u><a class="hyperlink " data-title="View projects in 'Computer Aided Design' category" href="/search-projects-by-subcategory/100-computer-aided-design" title="Explore more projects under the Computer Aided Design category">Computer Aided Design</a></u>
+												</span>
+											
+												<span>
+													<u><a class="hyperlink " data-title="View projects in 'CAD' category" href="/search-projects-by-subcategory/101-cad" title="Explore more projects under the CAD category">CAD</a></u>
+												</span>
+											
+												<span>
+													<u><a class="hyperlink " data-title="View projects in 'Computer Aided Engineering' category" href="/search-projects-by-subcategory/110-computer-aided-engineering" title="Explore more projects under the Computer Aided Engineering category">Computer Aided Engineering</a></u>
+												</span>
+											
+												<span>
+													<u><a class="hyperlink " data-title="View projects in 'CAE' category" href="/search-projects-by-subcategory/111-cae" title="Explore more projects under the CAE category">CAE</a></u>
+												</span>
+											
+										</p>
+										</div>
+										
+<!-- FCAds Banner Start -->
+<section id="fcads" aria-labelledby="fcads-heading">
+  <h2 id="fcads-heading" class="visually-hidden">Sponsored Ad from FindingDIY</h2>
+  
+  <!-- Ad Image with Accessible Figure Tag and Description -->
+  <figure>
+    <a href="https://findingdiy.com/" target="_blank" aria-label="Visit FindingDIY for DIY projects">
+      <img loading="lazy" src="/user/images/FCAds-Img-fdiy.jpg" 
+           alt="Finding DIY projects - FindingDIY.com" class="ad-banner-img">
+    </a>
+    <figcaption>
+      <a href="https://findingdiy.com/" target="_blank" 
+         style="text-decoration: none; color: #000000;">
+        Find DIY projects from the internet with FindingDIY.com. Start searching now!
+      </a>
+    </figcaption>
+  </figure>
+
+  <!-- FetchCFD Ad Attribution -->
+  <div class="fcads-attribution">
+    <a href="mailto:advertise@fetchcfd.com" 
+       data-title="Contact at advertise@fetchcfd.com for advertising on FetchCFD" 
+       target="_blank" 
+       class="tipped">ADS VIA FetchCFD</a>
+  </div>
+</section>
+<!-- FCAds Banner End -->
+
+									</div>
+								</div>
+							</div>
+
+							<!-- PDF Viewer start -->
+
+
+
+
+
+<div class="clear"></div>	
+<!-- PDF Viewer end -->	
+							
+							<!-- Related Designs Section start
+							***************************************** -->
+							
+								<div class="container-remove">
+									<h2 class="section-heading">Related Projects</h2>
+										<div class="eleven columns">
+											
+												<div class="two columns">
+													<a class="hyperlink" href="/view-project/1584-f1-2021-3d-model" title="F1 2021 3D Model">
+														<center>
+															<img loading="lazy" src="https://s3-eu-west-1.amazonaws.com/fetchcfd/thumbnail/descriptionImage-1575819290253.jpg" alt="F1 2021 3D Model">
+															<p style="letter-spacing: 0px;font-family: Open Sans,sans-serif;line-height: 18px;">
+															F1 2021 3D Model - <span class="cta">Explore this project</span>
+															</p>
+														</center>
+													</a>
+												</div>
+											
+												<div class="two columns">
+													<a class="hyperlink" href="/view-project/1532-tesla-model-s-car-cad-model-for-cfd" title="Tesla Model S Car CAD Model for CFD">
+														<center>
+															<img loading="lazy" src="https://s3-eu-west-1.amazonaws.com/fetchcfd/thumbnail/descriptionImage-1573472157700.jpg" alt="Tesla Model S Car CAD Model for CFD">
+															<p style="letter-spacing: 0px;font-family: Open Sans,sans-serif;line-height: 18px;">
+															Tesla Model S Car CAD Model for CFD - <span class="cta">Explore this project</span>
+															</p>
+														</center>
+													</a>
+												</div>
+											
+												<div class="two columns">
+													<a class="hyperlink" href="/view-project/1658-drone-3d-model" title="Drone 3D Model">
+														<center>
+															<img loading="lazy" src="https://s3-eu-west-1.amazonaws.com/fetchcfd/thumbnail/descriptionImage-1580399373746.jpg" alt="Drone 3D Model">
+															<p style="letter-spacing: 0px;font-family: Open Sans,sans-serif;line-height: 18px;">
+															Drone 3D Model - <span class="cta">Explore this project</span>
+															</p>
+														</center>
+													</a>
+												</div>
+											
+												<div class="two columns">
+													<a class="hyperlink" href="/view-project/3260-f1-2023-3d-model" title="F1 2023 3D Model">
+														<center>
+															<img loading="lazy" src="https://s3-eu-west-1.amazonaws.com/fetchcfd/thumbnail/descriptionImage-1680177786481.jpg" alt="F1 2023 3D Model">
+															<p style="letter-spacing: 0px;font-family: Open Sans,sans-serif;line-height: 18px;">
+															F1 2023 3D Model - <span class="cta">Explore this project</span>
+															</p>
+														</center>
+													</a>
+												</div>
+											
+												<div class="two columns">
+													<a class="hyperlink" href="/view-project/3031-spacex-starship-sn20-bn4-3d-model" title="SpaceX Starship SN20 BN4 3D Model">
+														<center>
+															<img loading="lazy" src="https://s3-eu-west-1.amazonaws.com/fetchcfd/thumbnail/descriptionImage-1667211188673.jpg" alt="SpaceX Starship SN20 BN4 3D Model">
+															<p style="letter-spacing: 0px;font-family: Open Sans,sans-serif;line-height: 18px;">
+															SpaceX Starship SN20 BN4 3D Model - <span class="cta">Explore this project</span>
+															</p>
+														</center>
+													</a>
+												</div>
+											
+										</div>
+								</div>
+							
+							
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+
+							
+							<!-- Related Designs Section End
+							************************************* -->
+
+							<!-- Commentes Section start
+							***************************************** -->
+							<div class="container-remove">
+								
+								<h2 class="section-heading" style="letter-spacing: 0px;">Sign up to join the conversation about Chevrolet (Chevy) 1952</h2>
+								<p class="instructions">Post a comment! Share insights on Chevrolet (Chevy) 1952, ask questions, and connect with other users. Whether you're curious about the 3D model, fluid simulation, or finite element analysis, your comments enrich the conversation.</p>
+								<div class="button-container">
+								<a href="/register" target="_blank" class="signup-button-comments" title="Sign up to join the conversation about Chevrolet (Chevy) 1952 on FetchCFD">Sign up to FetchCFD</a>
+								</div>
+								
+								<div class="container">
+									<div class="eleven columns">
+										<div id="commentBox" style="background-color: #F5F5F5; font-family:Open Sans,sans-serif; color:#555555; font-size:14px;">
+											
+										
+										<div class="container" id="noComments">
+											<p style="font-family:Open Sans,sans-serif; letter-spacing: 0px; font-size:14px; padding: 9px 14px;">No responses added yet.</p>
+										</div>
+										
+										</div>
+									</div>
+								</div>
+									<div class="container">
+									
+										<div class="eleven columns">
+											<div class="alert alert-red" id="commentError" style="display:none;" >
+												<p style="font-family:Open Sans,sans-serif; color:#555555; font-size:13px;text-transform: none;"><span></span><strong>OOPS!</strong> You must be logged in to post a comment. Login <a style="color:#16a085;" href="https://fetchcfd.com/login">here.</a> Not yet a FetchCFD user? Sign up for free <a style="color:#16a085;" href="https://fetchcfd.com/register">here.</a></p>
+											</div>
+										</div>
+									</div>
+							</div>
+							<!-- Commentes Section Ends
+							***************************************** -->
+
+						
+						
+					</div>
+
+			</div>
+	</div>
+	<style type="text/css">
+		.custome_green_button{
+			background:#16A085;
+			padding: 8px;
+    		width: 80%;
+			color: white;
+			font-family: Open Sans,sans-serif;
+			font-size: 14px;
+		}
+		.custome_green_button:hover {
+  
+		color: white;
+		}
+		.hidden{
+		display: none !important;
+		}
+	.link-cat {
+	position: relative;
+    width: 100%;
+    overflow: hidden;
+    text-align: left;
+	}
+	.link-cat a{
+	text-transform: uppercase;
+    letter-spacing: 2px;
+    padding: 3px 15px;
+    background: #d2d2d3;
+    font-size: 10px;
+    color: #212124;
+    display: inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+	-webkit-transition: all 300ms linear;
+    -moz-transition: all 300ms linear;
+    -o-transition: all 300ms linear;
+    -ms-transition: all 300ms linear;
+    transition: all 300ms linear;
+	font-size:9px;
+	letter-spacing:1px;
+	border-width: 1px;
+	border: 1px solid #ccc;
+	
+	font-weight:700;
+	}
+	.link-cat a:hover{
+	color:#fff;
+	background: #909091;
+	}
+	.tipper .tipper-content {
+	font-family: Open Sans,sans-serif;
+	font-size: 11px;
+	text-transform: none;
+	letter-spacing: 1px;
+	}
+	.fa_share {
+ -webkit-box-shadow: 0px 0px 0px 1px #bbb inset;
+    box-shadow: 0px 0px 0px 1px #bbb inset;
+	font-size: 13px;
+    padding: 5px 14px;
+  
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+    border: none;
+  border-radius: 4px;
+  font-weight: 500;
+    line-height: 32px;
+    letter-spacing: .02em;
+	color: #757575;
+	margin: 5px 2px;
+	white-space: nowrap;
+}
+
+.fa_share:hover {
+    opacity: 0.7;
+	color: #444444;
+}
+#the-canvas {
+  border: 1px solid black;
+  direction: ltr;
+}
+.youtube-container {
+    position: relative;
+    width: 400px;
+    height: 225px; /* Adjusted height proportionally */
+	margin-top: 28px;
+    margin-bottom: 28px;
+  }
+  .uc-embedding-wrapper {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(255, 255, 255, 0.9);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    z-index: 100;
+    font-family: 'Open Sans', sans-serif;
+  }
+  .uc-embedding-wrapper h3 {
+    font-size: 20px;
+  }
+  .uc-embedding-buttons {
+    margin-top: 15px;
+  }
+  .uc-embedding-accept {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-family: 'Open Sans', sans-serif;
+	font-size: 12px;
+	letter-spacing: 0px;
+    font-weight: 600;
+  }
+  .uc-embedding-accept:hover {
+    background-color: #0056b3;
+	color: white;
+  }
+  .visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    padding: 0;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    border: 0;
+}
+#embedDialog h2 {
+    text-align: left;
+    letter-spacing: 0px;
+    font-size: 20px;
+	color: #666;
+}
+#embedDialog p {
+	letter-spacing: 0px;
+    color: #666;
+    font-family: Open Sans, sans-serif;
+	margin-bottom: 4px;
+}
+.section-heading {
+  font-family: 'Open Sans', sans-serif; /* Ensures consistency with other text */
+  font-size: 24px; /* Adjust size as needed */
+  font-weight: 600; /* Bold to stand out */
+  color: #232323; /* Dark gray for good contrast */
+  letter-spacing: 1px; /* Slight spacing for clarity */
+  line-height: 26px;
+}
+/* Medium screens (tablets, 768px and up) */
+@media (max-width: 1024px) {
+  .section-heading {
+    font-size: 1.4em;
+  }
+}
+
+/* Small screens (mobile devices, 600px and below) */
+@media (max-width: 600px) {
+  .section-heading {
+    font-size: 1.3em; /* Slightly smaller for mobile */
+  }
+}
+.instructions {
+	font-family: Open Sans, sans-serif;
+    color: #555555;
+    font-size: 14px;
+	max-width: 80%; /* Adjust this percentage or use a fixed width like 600px */
+    margin: 0 auto; /* Centers the paragraph */
+    text-align: center; /* Optional: Center-aligns the text within the element */
+	letter-spacing: 0px;
+}
+.signup-button-comments {
+    display: inline-block;
+    padding: 10px 22px; /* Adjust padding for size */
+    background-color: #0c0b1a; /* Dark background color */
+    color: #ffffff; /* White text */
+    font-size: 14px; /* Adjust font size as needed */
+    font-weight: 500;
+    text-decoration: none;
+	letter-spacing: 0px;
+    border-radius: 30px; /* Creates the pill shape */
+    text-align: center;
+    transition: background-color 0.3s ease; /* Optional: Smooth color transition on hover */
+	font-family: 'Open Sans', sans-serif;
+}
+
+.signup-button-comments strong {
+    font-weight: bold; /* Emphasize "FetchCFD" */
+}
+
+.signup-button-comments:hover,
+.signup-button-comments:active,
+.signup-button-comments:focus {
+    background-color: #555; /* Slightly lighter background color on hover */
+	    color: #ffffff;
+}
+.button-container {
+    display: flex;
+    justify-content: center; /* Centers horizontally */
+    align-items: center; /* Centers vertically if the container has a set height */
+	margin-top: 4px;
+}
+.refetch-text {
+    color: #232323; /* Change to your desired color for "Refetch: Projects Inspired by" */
+	font-size: 19px;
+	letter-spacing: 0px;
+}
+
+.project-name {
+    color: #9e9ea7; /* Change to your desired color for the project name */
+	font-size: 19px;
+	letter-spacing: 0px;
+}
+#fcads {
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 1em;
+  }
+  .ad-banner-img {
+    width: 100%;
+    margin: 0 auto;
+    display: block;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  figcaption {
+    margin-top: 8px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+    color: #000;
+  }
+  .fcads-attribution {
+    font-size: 11px;
+    color: #949494;
+    margin-top: 10px;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+  }
+  .fcads-attribution a {
+    color: inherit;
+    text-decoration: none;
+  }
+  .fcads-attribution a:hover {
+    color: #000;
+    text-decoration: underline;
+  }
+	<!-- 	.hidden{
+  display: none !important;
+} -->
+		</style>
+
+
+<script>
+  function acceptConsent() {
+    document.getElementById('consent-wrapper').style.display = 'none';
+    document.getElementById('youtube-iframe').style.display = 'block';
+  }
+</script>
+		
+<script type="text/javascript">
+// 	function likeDesign(designId) {
+//         	/* stop form from submitting normally */
+//       event.preventDefault();
+
+//       /* get some values from elements on the page: */
+//       var error = false;
+//       var $form = $( this ),
+//           url = '/design/like';
+
+//         var formValues = {designId:  designId};
+
+//       /* Send the data using post */
+//       var posting = $.post( url,  formValues );
+
+//       /* Alerts the results */
+//       posting.done(function( data ) {
+//           if(data.message === 'success'){
+//             $("#like").remove();
+//             $("#likeSection").append('<button id="like"  class="two columns custome_green_button" disabled>Liked</button>');	 
+//             // $("#liked").toggle(); 
+            
+             
+//           }else if(data.message === 'error'){
+//             // $( ".freelancer-error" ).toggle();
+//           }
+//       });
+	
+// }
+
+function likeDesign(event, designId) {
+	event = event || window.event;
+	
+     	$("#messageError").show();
+     
+	
+}
+
+function unlikeDesign(event, designId) {
+	event = event || window.event;
+        	/* stop form from submitting normally */
+      event.preventDefault();
+
+      /* get some values from elements on the page: */
+      var error = false;
+      var $form = $( this ),
+          url = '/design/unlike';
+
+        var formValues = {designId:  designId};
+
+      /* Send the data using post */
+      var posting = $.post( url,  formValues );
+
+      /* Alerts the results */
+      posting.done(function( data ) {
+          if(data.message === 'success'){
+            $("#unlike").remove();
+            $("#likeSection").append('<button id="like" class="two columns custome_green_button" onclick="likeDesign(event, 603)">Like</button>');	 
+            // $("#liked").toggle(); 
+            
+             
+          }else if(data.message === 'error'){
+            // $( ".freelancer-error" ).toggle();
+          }
+      });
+	
+}
+
+function followUser(event, userId) {
+	event = event || window.event;
+	
+     	$("#messageError").show();
+     
+	
+};
+
+function unfollowUser(event, userId) {
+		event = event || window.event
+        	/* stop form from submitting normally */
+      event.preventDefault();
+
+      /* get some values from elements on the page: */
+      var error = false;
+      var $form = $( this ),
+          url = '/unfollow-user';
+
+        var formValues = {userId:  userId};
+
+      /* Send the data using post */
+      var posting = $.post( url,  formValues );
+
+      /* Alerts the results */
+      posting.done(function( data ) {
+          if(data.message === 'success'){
+           $("#follow").remove();
+           $("#followSection").append('<button id="follow" class="two columns custome_green_button" onclick="followUser(event, 20)">Follow</button>');
+             
+          }else if(data.message === 'error'){
+            // $( ".freelancer-error" ).toggle();
+          }
+      });
+	
+};
+
+function addDownloadInfo(designId) {
+        	/* stop form from submitting normally */
+      // event.preventDefault();
+
+      /* get some values from elements on the page: */
+      var error = false;
+      var $form = $( this ),
+          url = '/design-add-downloader';
+
+        var formValues = {designId:  designId};
+
+      /* Send the data using post */
+      var posting = $.post( url,  formValues );
+
+      /* Alerts the results */
+      posting.done(function( data ) {
+          if(data.message === 'success'){
+
+          }else if(data.message === 'error'){
+            // $( ".freelancer-error" ).toggle();
+          }
+      });
+	
+};
+
+function prepareDownload(designId) {
+        	
+	//alert("Download all for "+ designId);
+	//return;
+	//debugger;
+	$('#downloadAll').html('<span >Preparing download...<span>');
+      // event.preventDefault();
+
+      /* get some values from elements on the page: */
+      var error = false;
+      var $form = $( this ),
+          url = '/prepare-download';
+
+        var formValues = {designId:  designId};
+
+      /* Send the data using post */
+      var posting = $.post( url,  formValues );
+
+      /* Alerts the results */
+      posting.done(function( data ) {
+          if(data.message === 'success'){
+          	$('#downloadAll').html('<a style="color:#ffdc6a; onclick="addDownloadInfo(603)" href="/temp/'+data.zipFileName+'.zip'+'" style="color: #16a085;"  download>Download ready! Click to download</a>');
+          }else if(data.message === 'error'){
+            // $( ".freelancer-error" ).toggle();
+          }
+      });
+	
+};
+
+function postComment(designId) {
+	
+     	$("#commentError").show();
+     	
+};
+
+function reportComment(commentId) {
+    /* stop form from submitting normally */
+    event.preventDefault();
+
+    /* get some values from elements on the page: */
+    var $form = $( this ),
+        url = '/design/report-comment';
+
+    var formValues = {commentId:  commentId};
+
+    /* Send the data using post */
+    var posting = $.post( url,  formValues );
+
+    /* Alerts the results */
+    posting.done(function( data ) {
+        if(data.message === 'success'){
+        	$('#report-'+commentId).html('Reported');
+        	$('#report-'+commentId).attr("disabled", true);
+        }else if(data.message === 'error'){
+            // $( ".freelancer-error" ).toggle();
+        }
+    });
+	
+};
+
+function reportDesign(designId) {
+    /* stop form from submitting normally */
+    event.preventDefault();
+
+    /* get some values from elements on the page: */
+    var $form = $( this ),
+        url = '/design/report-design';
+
+    var formValues = {designId:  designId};
+
+    /* Send the data using post */
+    var posting = $.post( url,  formValues );
+
+    /* Alerts the results */
+    posting.done(function( data ) {
+        if(data.message === 'success'){
+        	$('#report-'+designId).html('Reported');
+        	$('#report-'+designId).attr("disabled", true);
+        }else if(data.message === 'error'){
+            // $( ".freelancer-error" ).toggle();
+        }
+    });
+	
+};
+
+function sendMessage() {
+    /* stop form from submitting normally */
+    // event.preventDefault();
+    if(!$('#message').val() || $('#message').val() === ''){
+    	return false;
+    }
+    /* get some values from elements on the page: */
+    var $form = $( this ),
+        url = '/email/send-message';
+
+    var formValues = {sendToId : "20", emailTo: "psifactorp@yahoo.com", message: $('#message').val()};
+
+    /* Send the data using post */
+    var posting = $.post( url,  formValues );
+
+    /* Alerts the results */
+    posting.done(function( data ) {
+        if(data.message === 'success'){
+        	$( "#sendMessageDialog" ).dialog( "close" );
+        }else if(data.message === 'error'){
+            // $( ".freelancer-error" ).toggle();
+        }
+    });
+	
+};
+
+</script>
+ 
+		<div class="section padding-top-bottom-small">	
+	
+			<div class="parallax-footer"></div>	
+														
+			<div class="container">
+				<div class="twelve columns">
+					<div class="footer-img">
+						<img src="/user/images/logo.png" alt="FetchCFD Logo - Engineering Simulations, CFD, FEA, and 3D models also in AR, and VR." loading="lazy">
+					</div>	
+				</div>
+				<div class="twelve columns">			
+					<div class="social-footer">
+			<ul class="list-social">
+				<li class="icon-soc tipped" data-title="Twitter" data-tipper-options='{"direction":"top","follow":"true"}'>
+					<a href="https://twitter.com/FetchCFD" target="_blank" aria-label="Follow FetchCFD on Twitter for CFD and FEA insights">&#xf099;</a>
+				</li>
+				<li class="icon-soc tipped" data-title="Medium" data-tipper-options='{"direction":"top","follow":"true"}'>
+					<a href="https://medium.com/@FetchCFD" target="_blank" aria-label="FetchCFD Medium - Engineering Simulation Articles"><i class="fab fa-medium-m"></i></a>
+				</li>
+				<li class="icon-soc tipped" data-title="Facebook" data-tipper-options='{"direction":"top","follow":"true"}'>
+					<a href="https://www.facebook.com/FetchCFD-1721895254717592/" target="_blank" aria-label="FetchCFD on Facebook - CFD, FEA, and 3D Modeling Community">&#xf230;</a>
+				</li>
+				<li class="icon-soc tipped" data-title="Tumblr" data-tipper-options='{"direction":"top","follow":"true"}'>
+					<a href="http://fetchcfd.tumblr.com/" target="_blank" aria-label="FetchCFD Tumblr - Share and Explore 3D Models, CFD and FEA Simulations">&#xf174;</a>
+				</li>
+				<li class="icon-soc tipped" data-title="Pinterest" data-tipper-options='{"direction":"top","follow":"true"}'>
+					<a href="https://pinterest.com/fetchcfd/" target="_blank" aria-label="FetchCFD on Pinterest - Fluid Simulations, Finite Element Analysis and 3D Models">&#xf231;</a>
+				</li>
+				<li class="icon-soc tipped" data-title="LinkedIn" data-tipper-options='{"direction":"top","follow":"true"}'>
+					<a href="https://www.linkedin.com/groups/8517932" target="_blank" aria-label="Connect with FetchCFD on LinkedIn for Fluid Simulation and FEA updates">&#xf08c;</a>
+				</li>
+				<li class="icon-soc tipped" data-title="YouTube" data-tipper-options='{"direction":"top","follow":"true"}'>
+					<a href="https://www.youtube.com/channel/UCLoKxLVcIAVsyKIqSkePhNQ" target="_blank" aria-label="FetchCFD YouTube - Watch CFD and FEA Tutorials">&#xf16a;</a>
+				</li>
+				<li class="icon-soc tipped" data-title="Instagram" data-tipper-options='{"direction":"top","follow":"true"}'>
+					<a href="https://www.instagram.com/fetchcfdworld/" target="_blank" aria-label="FetchCFD Instagram - Visuals of Computational Fluid Dynamics, Finite Element Analysis and 3D models">&#xf16d;</a>
+				</li>
+			</ul>	
+		</div>
+				</div>		
+				<div class="twelve columns">
+					<div class="footer-copy-text">
+						<a href="/" class="chaffle" data-lang="en" style="font-family: Open Sans,sans-serif; font-size:14px;" title="FETCHCFD 2024 - Download, Publish, and Explore Engineering Simulations and 3D Models">© FETCHCFD 2024</a>
+			<p style="color:#828282;font-family: Open Sans,sans-serif;font-size:14px;">Engineered with <i class="fas fa-heart" style="color:red"></i> from Germany</p>
+			<p style="color:#828282;font-family: Open Sans,sans-serif;font-size:13px;">All projects and content © of their respective owners.</p>
+			<p>
+				<a href="/cfd" class="footer-link" title="Computational Fluid Dynamics (CFD) Simulations">Computational Fluid Dynamics</a> &nbsp;
+				<a href="/fea" class="footer-link" title="Finite Element Analysis (FEA) Simulations">Finite Element Analysis</a> &nbsp;
+				<a href="/3d-viewer" class="footer-link" title="Free Online 3D Viewer for 3D Models">3D Viewer</a> &nbsp;
+				<a href="/augmented-reality" class="footer-link" title="Augmented Reality for Engineering Simulations">Augmented Reality</a> &nbsp;
+				<a href="/virtual-reality" class="footer-link" title="Virtual Reality for 3D Models and Simulations">Virtual Reality</a> &nbsp;
+				<a href="/fetchbot" class="footer-link" title="FetchBot - Fluid Simulations and Finite Element Analysis AI Assistant">FetchBot</a> &nbsp;
+				<a href="/FetchX" class="footer-link" title="Free Online 3D Rendering Tool - FetchX">Online 3D Rendering</a> &nbsp;
+				<a href="/fluid-simulation" class="footer-link" title="WebGL Fluid Simulation">Fluid Simulation</a> &nbsp;
+				<a href="/tags" class="footer-link" title="Explore tags related to 3d models, CFD and FEA Simulations">Tags</a> &nbsp;
+				<a href="https://simulationwiki.fetchcfd.com/" class="footer-link" title="Simulation Wiki - Engineering Resources for CFD and FEA">Simulation Wiki</a> &nbsp;
+				<a href="/help-center" class="footer-link" title="FetchCFD Help Center - Support for CFD and FEA">Help Center</a>
+			</p>
+						<p>
+							<a style="font-size: 13px;font-family: Open Sans,sans-serif;" href="/privacy-policy">Data Privacy</a> &nbsp;
+							<a style="font-size: 13px;font-family: Open Sans,sans-serif;" href="/privacy-policy-german">Datenschutz</a> &nbsp;
+							<a style="font-size: 13px;font-family: Open Sans,sans-serif;" href="/terms-conditions">Terms of Use</a> &nbsp;
+							<a style="font-size: 13px;font-family: Open Sans,sans-serif;" href="/terms-conditions-german">Nutzungsbedingungen</a> &nbsp;
+							<a style="font-size: 13px;font-family: Open Sans,sans-serif;" href="/about" title="About FetchCFD - Platform to Download and Publish CFD, FEA Simulations and 3D Models">About</a> &nbsp;
+							<a style="font-size: 13px;font-family: Open Sans,sans-serif;" href="/contact" title="Contact FetchCFD - Get in Touch">Contact</a> &nbsp;
+							<a style="font-size: 13px;font-family: Open Sans,sans-serif;" href="/impressum">Impressum</a> &nbsp;
+							<a style="font-size: 13px;font-family: Open Sans,sans-serif;" href="/press">Press Kit</a> &nbsp;
+							<!-- <span style="font-size: 12px; color:#828282" >contact@fetchcfd.com</span> -->
+						</p>
+					</div>	
+				</div>
+			</div>
+		</div>
+		
+	</main> <!-- .cd-main -->
+
+	<div class="cd-folding-panel">
+		
+		<div class="fold-left"></div> <!-- this is the left fold -->
+		
+		<div class="fold-right"></div> <!-- this is the right fold -->
+		
+		<div class="cd-fold-content">
+			<!-- content will be loaded using javascript -->
+		</div>
+
+		<a class="cd-close" href="#0"></a>
+	</div> <!-- .cd-folding-panel -->	
+	
+	
+
+	<div class="scroll-to-top" title="Scroll Back to Top of FetchCFD - Engineering Simulations Platform"></div>	
+		
+	<div class="scroll-to-upload"> 
+		<button class="scroll-to-upload" onclick="ScrollUpload()" title="Upload Your CFD Simulations, FEM Simulations, and 3D Models to FetchCFD - Engineering Simulation Platform"></button>
+	</div>
+	<div class="scroll-to-help"> 
+		<button class="scroll-to-help" onclick="ScrollHelp()" title="Get Help with Fluid Simulations, Finite Element Method Analysis, and 3D Modeling on FetchCFD"></button>
+	</div>	
+
+		
+	<!-- JAVASCRIPT
+    ================================================== -->
+
+<script type="text/javascript" src="/user/js/jquery-2.1.1.js"></script>	
+<link rel="stylesheet" href="/user/css/jquery-ui.min.css">
+  <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+
+<script type="text/javascript" defer src="/user/js/scroll.js"></script>
+<script type="text/javascript"> 
+(function($) { "use strict";          
+			jQuery(document).ready(function() {
+				var offset = 350;
+				var duration = 500;
+				jQuery(window).scroll(function() {
+					if (jQuery(this).scrollTop() > offset) {
+						jQuery('.scroll-to-top').fadeIn(duration);
+					} else {
+						jQuery('.scroll-to-top').fadeOut(duration);
+					}
+				});
+				
+				jQuery('.scroll-to-top').click(function(event) {
+					event.preventDefault();
+					jQuery('html, body').animate({scrollTop: 0}, duration);
+					return false;
+				})
+			});
+})(jQuery);
+
+/** jQuery for tabs start
+****************************************************/
+
+(function($) { "use strict";          
+			jQuery(document).ready(function() {
+				if($(window).width() > 768){
+
+				// Hide all but first tab content on larger viewports
+				$('.accordion__content:not(:first)').hide();
+
+				// Activate first tab
+				$('.accordion__title:first-child').addClass('active');
+
+				} else {
+				  
+				// Hide all content items on narrow viewports
+				$('.accordion__content').hide();
+				};
+
+				// Wrap a div around content to create a scrolling container which we're going to use on narrow viewports
+				$( ".accordion__content" ).wrapInner( "<div class='overflow-scrolling'></div>" );
+
+				// The clicking action
+				$('.accordion__title').on('click', function() {
+				$('.accordion__content').hide();
+				$(this).next().show().prev().addClass('active').siblings().removeClass('active');
+				});
+			});
+})(jQuery);
+
+/** jQuery for tabs end
+****************************************************/
+</script>
+
+ 
+<script type="text/javascript"> 
+(function($) { "use strict";          
+			jQuery(document).ready(function() {
+				var offset = 350;
+				var duration = 500;
+				jQuery(window).scroll(function() {
+					if (jQuery(this).scrollTop() > offset) {
+						jQuery('.scroll-to-upload').fadeIn(duration);
+					} else {
+						jQuery('.scroll-to-upload').fadeOut(duration);
+					}
+				});
+				
+				
+			});
+})(jQuery);
+</script>
+<script type="text/javascript"> 
+(function($) { "use strict";          
+			jQuery(document).ready(function() {
+				var offset = 350;
+				var duration = 500;
+				jQuery(window).scroll(function() {
+					if (jQuery(this).scrollTop() > offset) {
+						jQuery('.scroll-to-help').fadeIn(duration);
+					} else {
+						jQuery('.scroll-to-help').fadeOut(duration);
+					}
+				});
+				
+				
+			});
+})(jQuery);
+</script> 
+
+<script>
+function ScrollUpload() {
+  window.open("https://fetchcfd.com/upload-project", "_blank", "toolbar=yes,scrollbars=yes,resizable=yes,top=500,left=500,width=400,height=400");
+}
+</script>
+ 
+<script type="text/javascript" src="/user/js/retina-1.1.0.min.js"></script> 
+<script type="text/javascript" src="/user/js/jquery.easing.js"></script>
+<script type="text/javascript" src="/user/js/menu.js"></script>	
+<script type="text/javascript" src="/user/js/jquery.fs.tipper.min.js"></script> 
+<script type="text/javascript" src="/user/js/owl.carousel.min.js"></script>
+<!-- <script type="text/javascript" src="/user/js/portfolio-ajax.js"></script>  -->
+<script type="text/javascript" src="/user/js/jquery.fitvids.js"></script> 
+<script src="/user/js/select2/select2.min.js" type="text/javascript"></script>
+<script src="/user/js/moment.js" type="text/javascript" defer></script>
+<script src="/user/js/daterangepicker.min.js" type="text/javascript"></script>
+<script src="/user/js/jquery.bxslider.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="/user/js/register.js"></script>
+<script defer src="//mozilla.github.io/pdf.js/build/pdf.mjs" type="module"></script>
+
+
+
+ <script type="text/javascript">
+ 
+
+ </script>
+ <script>
+ $(document).ready(function(){
+ var yesman=$('#titleid').html();
+ if(yesman=='')
+ {
+ $('#titleid').html('FetchCFD | Showcase and explore simulations');
+ document.getElementsByTagName("META")[10].content = "Platform to publish, share, collaborate, discover & download simulations in 3D/VR/AR";
+ document.getElementsByTagName("META")[11].content = "Simulation Platform, CFD Platform, FEA Platform, Simulation Repository, 3D Models, CAD, Online Simulations, engineering simulation, ANSYS, Autodesk, OpenFOAM, StarCCM+, Simulation, CFD, FEA, Thermal Analysis, Simulation platform for engineers, Simulation platform for designers";
+ }
+ else
+ {$('#titleid').html(yesman);}
+ });
+ </script>
+<script type="text/javascript"> 
+(function($) { "use strict"; 
+	$(".container").fitVids();	
+})(jQuery);
+</script>
+<script type="text/javascript" src="/user/js/jquery.parallax-1.1.3.js"></script>	
+<script type="text/javascript" defer src="/user/js/jquery.chaffle.min.js"></script>
+<script type="text/javascript">
+(function($) { "use strict";
+	$(document).ready(function() {
+		
+    $( "#dialog" ).dialog({
+      autoOpen: false,
+      width: 600,
+      show: {
+        effect: "blind",
+        duration: 1000
+      },
+      hide: {
+        effect: "blind",
+        duration: 1000
+      }
+    });
+
+    $( "#download" ).click(function() {
+    	$("#downloadError").show();
+    });
+    
+    $( "#sendMessageDialog" ).dialog({
+      autoOpen: false,
+   		width: 600,
+       buttons: {
+        "Send Message": function() {
+          sendMessage();
+        },
+        "Cancel": function() {
+          $( this ).dialog( "close" );
+        }
+      },
+      show: {
+        effect: "fade",
+        duration: 300
+      },
+      hide: {
+        effect: "fade",
+        duration: 300
+      }
+    });
+
+    $( "#sendMessage" ).click(function() {
+    	
+      		$("#messageError").show();
+      	
+    });
+
+    $( "#embedDialog" ).dialog({
+      autoOpen: false,
+   		width: 600,
+       buttons: {
+        "Cancel": function() {
+          $( this ).dialog( "close" );
+        }
+      },
+      show: {
+        effect: "fade",
+        duration: 300
+      },
+      hide: {
+        effect: "fade",
+        duration: 300
+      }
+    });
+
+
+    $( "#embed" ).click(function() {
+      	$( "#embedDialog" ).dialog( "open" );
+    });
+
+
+		//Slider Jquery
+		 $('.bxslider').bxSlider({
+	            slideWidth: "850px"
+
+	      });
+
+
+		//DatePicker Jquery
+		$(".daterangepicker").hide();	
+		$('.chaffle').chaffle({
+			speed: 10,
+			time: 60
+		});
+	}); 
+})(jQuery);
+</script>	
+<script type="text/javascript" src="/user/js/custom-home.js"></script>  	  
+
+
+	<script type="text/javascript">
+			
+	$("#cookieConsent").fadeIn(200);
+	    $("#closeCookieConsent, .cookieConsentOK").click(function() {
+        $("#cookieConsent").fadeOut(200);
+    });
+			function getCookieData( name ) {
+				var x = document.getElementById('cookieConsent');
+				var pairs = document.cookie.split("; "),
+				   	count = pairs.length, parts; 
+				while ( count-- ) {
+					parts = pairs[count].split("=");
+					
+					if ( parts[0] === name )
+					{x.style.display = 'none';
+					
+						return parts[1];}
+				}
+				
+				return false;
+			}
+			var cga = getCookieData("_cookieConsent");
+			console.log(cga);
+			
+			
+			function setCookieData(cname,cvalue,exdays) {
+				var d = new Date();
+				d.setTime(d.getTime() + (exdays*24*60*60*1000));
+				var expires = "expires=" + d.toGMTString();
+				document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+			}
+			//var co = setCookieData("_cookiepc3","1","365");
+			//console.log(co);
+			document.getElementById('cookieConsent').addEventListener('click', function(){
+				setCookieData("_cookieConsent","1","365");
+			});
+			
+	</script>
+
+	
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+    var hasNotification = "true";
+    if (hasNotification === "true") {
+        myFunctionFN();
+    }
+});
+</script>
+
+
+<script>
+function myFunctionFN() {
+  var x = document.getElementById("snackbarFN");
+  if (!x) return; // ⛔ If element is missing, skip the rest
+
+  x.className = "show";
+  setTimeout(function () {
+    x.className = x.className.replace("show", "");
+  }, 15000);
+}
+
+</script>	
+<!-- End Document
+================================================== -->
+
+
+
+	<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+ 
+ <script>window.twttr = (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0],
+    t = window.twttr || {};
+  if (d.getElementById(id)) return t;
+  js = d.createElement(s);
+  js.id = id;
+  js.src = "https://platform.twitter.com/widgets.js";
+  fjs.parentNode.insertBefore(js, fjs);
+ 
+  t._e = [];
+  t.ready = function(f) {
+    t._e.push(f);
+  };
+ 
+  return t;
+}(document, "script", "twitter-wjs"));</script>
+
+<script src="https://apis.google.com/js/platform.js" async defer></script>
+
+<script
+    type="text/javascript"
+    async defer
+    src="//assets.pinterest.com/js/pinit.js"
+></script>
+
+<script>
+  ;(function (d, s) {
+    var x = d.createElement(s),
+      s = d.getElementsByTagName(s)[0];
+      x.src = "https://www.xing-share.com/plugins/share.js";
+      s.parentNode.insertBefore(x, s);
+  })(document, "script");
+</script>
+
+<script type="module">
+  // If absolute URL from the remote server is provided, configure the CORS
+  // header on that server.
+  var url = 'https://s3-eu-west-1.amazonaws.com/fetchcfd/original/';
+
+  // Loaded via <script> tag, create shortcut to access PDF.js exports.
+  var { pdfjsLib } = globalThis;
+
+  // The workerSrc property shall be specified.
+  pdfjsLib.GlobalWorkerOptions.workerSrc = '//mozilla.github.io/pdf.js/build/pdf.worker.mjs';
+
+  var pdfDoc = null,
+      pageNum = 1,
+      pageRendering = false,
+      pageNumPending = null,
+      scale = 0.8,
+      canvas = document.getElementById('the-canvas'),
+      ctx = canvas.getContext('2d');
+
+  /**
+   * Get page info from document, resize canvas accordingly, and render page.
+   * @param num Page number.
+   */
+  function renderPage(num) {
+    pageRendering = true;
+    // Using promise to fetch the page
+    pdfDoc.getPage(num).then(function(page) {
+      var viewport = page.getViewport({scale: scale});
+      canvas.height = viewport.height;
+      canvas.width = viewport.width;
+
+      // Render PDF page into canvas context
+      var renderContext = {
+        canvasContext: ctx,
+        viewport: viewport
+      };
+      var renderTask = page.render(renderContext);
+
+      // Wait for rendering to finish
+      renderTask.promise.then(function() {
+        pageRendering = false;
+        if (pageNumPending !== null) {
+          // New page rendering is pending
+          renderPage(pageNumPending);
+          pageNumPending = null;
+        }
+      });
+    });
+
+    // Update page counters
+    document.getElementById('page_num').textContent = num;
+  }
+
+  /**
+   * If another page rendering in progress, waits until the rendering is
+   * finised. Otherwise, executes rendering immediately.
+   */
+  function queueRenderPage(num) {
+    if (pageRendering) {
+      pageNumPending = num;
+    } else {
+      renderPage(num);
+    }
+  }
+
+  /**
+   * Displays previous page.
+   */
+  function onPrevPage() {
+    if (pageNum <= 1) {
+      return;
+    }
+    pageNum--;
+    queueRenderPage(pageNum);
+  }
+  document.getElementById('prev-page').addEventListener('click', onPrevPage);
+
+  /**
+   * Displays next page.
+   */
+  function onNextPage() {
+    if (pageNum >= pdfDoc.numPages) {
+      return;
+    }
+    pageNum++;
+    queueRenderPage(pageNum);
+  }
+  document.getElementById('next-page').addEventListener('click', onNextPage);
+
+  /**
+   * Asynchronously downloads PDF.
+   */
+  pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
+    pdfDoc = pdfDoc_;
+    document.getElementById('page_count').textContent = pdfDoc.numPages;
+
+    // Initial/first page rendering
+    renderPage(pageNum);
+  });
+</script>
+
+<script>!function(d,s,id){var js,ajs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://secure.assets.tumblr.com/share-button.js";ajs.parentNode.insertBefore(js,ajs);}}(document, "script", "tumblr-js");</script>
+
+<script>
+function acceptConsent() {
+  // Hide the consent wrapper
+  document.getElementById('consent-wrapper').style.display = 'none';
+
+  // Define the video link
+  const videoLink = "";
+  let embedUrl = videoLink.includes('watch?v=') 
+    ? videoLink.replace('watch?v=', 'embed/') 
+    : videoLink; 
+
+  // Create the iframe
+  const iframe = document.createElement('iframe');
+  iframe.width = '400';
+  iframe.height = '225';
+  iframe.src = embedUrl;
+  iframe.frameBorder = '0';
+  iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture';
+  iframe.allowFullscreen = true;
+  
+  // Append the iframe
+  document.getElementById('youtube-video').appendChild(iframe);
+}
+
+
+</script>
+
+
+<script>
+function ScrollHelp() {
+  window.open("https://fetchcfd.com/help-center/community#Responses%20(Comments),%20Likes%20and%20Follows", "_blank", "toolbar=yes,scrollbars=yes,resizable=yes,top=500,left=500,width=400,height=400");
+}
+</script> 
+
+
+</body>
+</html>
